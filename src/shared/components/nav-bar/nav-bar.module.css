@@ -1,0 +1,12 @@
+.navContainer {
+    @apply m-8 h-24 items-center justify-around;
+}
+
+.navLink {
+    @apply mx-8 font-medium;
+    display: block;
+}
+
+.navModalLink {
+    @apply p-2 font-medium text-black;
+}
