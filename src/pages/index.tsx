@@ -15,7 +15,7 @@ export default function Home() {
                     }}
                 ></Typewriter>
             </div>
-            <div className="grow px-4 text-center font-medium">
+            <div className="grow px-4 text-center">
                 <div>A collection of messages that we wish were sent.</div>
                 <div>Get started by logging in at the top right.</div>
             </div>

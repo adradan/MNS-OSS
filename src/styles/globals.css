@@ -141,9 +141,7 @@ body {
 }
 
 body {
-    font-family: Roboto, "Helvetica Neue", sans-serif !important;
     padding: 1px;
-    /*height: 100%;*/
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
